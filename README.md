@@ -7,6 +7,9 @@
 - 💬 Ask me about HTML, CSS, Javascript, C/C++, Graphic Design, Microsoft Office
 - 📫 How to reach me: you can contact my through my Twitter account.
 
+### My Tech Stack
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
 <!--
 **EduCreative/EduCreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
