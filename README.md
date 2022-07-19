@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning Javascript
+## About me
+- 🌱 I’m currently learning Javascript for Frontend Development
 - 👯 I’m looking to collaborate on my #100daysofcode challange
 - 🤔 I’m looking for help with information about new opportunities for Frontend Developers so that I can update myself according to the market need.
 - 💬 Ask me about HTML, CSS, Javascript, C/C++, Graphic Design, Microsoft Office
@@ -22,9 +22,10 @@
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 
 ## Social
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)https://twitter.com/CreativeWork7]
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)https://www.youtube.com/c/EduCreatives]
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CreativeWork7)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/EduCreatives)
 
+<!--
 ### Hosting/SaaS
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -38,7 +39,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
+-->
   
 <!--
 **EduCreative/EduCreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
