@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Frontend Development
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on my #100daysofcode challange
+- 🤔 I’m looking for help with information about new opportunities for Frontend Developers so that I can update myself according to the market need.
+- 💬 Ask me about HTML, CSS, Javascript, C/C++, Graphic Design, Microsoft Office
+- 📫 How to reach me: you can contact my through my Twitter account.
+
 <!--
 **EduCreative/EduCreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
