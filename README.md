@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 ## About me
-- 🌱 I’m currently learning Javascript for Frontend Development
+- 🌱 I’m currently learning Kotlin for Android App Development
 - 👯 I’m looking to collaborate on my #100daysofcode challange
 - 🤔 I’m looking for help with information about new opportunities for Frontend Developers so that I can update myself according to the market need.
-- 💬 Ask me about HTML, CSS, Javascript, C/C++, Graphic Design, Microsoft Office
+- 💬 Ask me about HTML, CSS, Javascript, ReactJS, Kotlin, Python, , SQL, C/C++, Graphic Design, Microsoft Office
 
 ## My Tech Stack
 
-### Computer Languages, Frameworks,  Platforms and Libraries
+### Computer Languages, Frameworks, Platforms and Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,6 +17,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!--
+![kotlin] 
+![SQL]
+-->
 
 ### Tech Education Forums
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
